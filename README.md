@@ -1,2 +1,2 @@
 # SampleDelegate
-Implement Delegate 
+Try to build custom delegate
